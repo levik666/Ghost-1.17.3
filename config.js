@@ -10,7 +10,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://levik.herokuapp.com',
+        url: 'https://developerblog.herokuapp.com/',
         mail: {},
         database: {
             client: 'postgres',
